@@ -1,6 +1,6 @@
 {
-    "name": "rhcs1",
-    "short_name": "rhcs1",
+    "name": "dbrhcs1",
+    "short_name": "dbrhcs1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
